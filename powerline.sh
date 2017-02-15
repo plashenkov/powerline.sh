@@ -28,7 +28,7 @@ __ps1() {
     fi
 
     # Replace path separator (/) with powerline separator symbol
-    path=${path//\//"\[\e[91m\]  \[\e[30m\]"}
+    path=${path//\//"\[\e[90m\]  \[\e[30m\]"}
   fi
 
   PS1="\[\e[44;37m\] \u \[\e[47;34m\]\[\e[47;30m\] $path \[\e[49;37m\]\[\e[0m\] "
