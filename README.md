@@ -4,7 +4,7 @@ Beautiful powerline-style prompt written in pure bash, simple and very fast.
 
 ## Features
 
-Prints username and current path. Too long paths are shortened.
+Prints username and current path. Too long paths are shortened. Customizable colors.
 
 ![image](screenshots/screenshot.png)
 
