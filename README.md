@@ -18,7 +18,7 @@ source "/path/to/powerline.sh"
 
 That's all!
 
-You can customize colors and appearance, just look inside [powerline.sh](powerline.sh). 
+You can customize colors and appearance, just look inside [powerline.sh](powerline.sh).  
 Color numbers can be found here: http://misc.flogisoft.com/bash/tip_colors_and_formatting#colors1
 
 ## Credits
