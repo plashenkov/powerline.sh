@@ -3,13 +3,13 @@
 # Beautiful powerline-style prompt written in pure bash, simple and very fast.
 # 
 # Author  : Yury Plashenkov
-# Website : https://yuryplashenkov.com/projects/powerline
+# Website : https://yuryplashenkov.com/en/projects/powerline
 # Github  : https://github.com/plashenkov/powerline 
 # License : MIT License
 
 __ps1() {
-  # Colors:
-  # http://misc.flogisoft.com/bash/tip_colors_and_formatting
+  # Colors (see "88/256 Colors" section):
+  # http://misc.flogisoft.com/bash/tip_colors_and_formatting#colors1
   local user_bg_color=31
   local user_text_color=231
   local user_bold=true
