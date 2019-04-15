@@ -10,7 +10,7 @@ Prints username and current path. Too long paths are shortened. Customizable col
 
 ## How to use
 
-Include powerline.sh in `.bash_profile` or `.bashrc` file:
+Include powerline.sh in `.bash_profile` and/or `.bashrc` files:
 
 ```bash
 source "/path/to/powerline.sh"
@@ -23,7 +23,7 @@ Color numbers can be found here: [Bash tips: Colors and formatting](http://misc.
 
 ## Credits
 
-[Yury Plashenkov](https://github.com/plashenkov)
+[Yuri Plashenkov](https://github.com/plashenkov)
 
 ## License
 
