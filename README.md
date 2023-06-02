@@ -1,4 +1,4 @@
-# Powerline
+# powerline.sh
 
 Beautiful powerline-style prompt written in pure bash, simple and very fast.
 
@@ -10,7 +10,7 @@ Prints username and current path. Too long paths are shortened. Customizable col
 
 ## How to use
 
-Include powerline.sh in `.bash_profile` and/or `.bashrc` files:
+Download [powerline.sh](powerline.sh) file to your machine and include it in your `.bash_profile` and/or `.bashrc` files:
 
 ```bash
 source "/path/to/powerline.sh"
