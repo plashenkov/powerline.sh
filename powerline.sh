@@ -3,7 +3,7 @@
 # Beautiful powerline-style prompt written in pure bash, simple and very fast.
 #
 # Author  : Yuri Plashenkov
-# Github  : https://github.com/plashenkov/powerline
+# Github  : https://github.com/plashenkov/powerline.sh
 # License : MIT License
 
 __ps1() {
